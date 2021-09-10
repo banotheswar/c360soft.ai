@@ -5,6 +5,7 @@ const ContactInfo = () => {
         <div>
             <div class="contactinfo">
                         <div class="container">
+                          {/* comments */}
 <div class="row">
 
   <div class="col-md-6 d-flex align-items-center"> 
