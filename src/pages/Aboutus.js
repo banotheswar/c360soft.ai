@@ -12,6 +12,7 @@ import Header from '../components/Header'
 const Aboutus = () => {
     return (
         <>
+        {/* commitments */}
           <Header/>
           <Hero/> 
           <Leadership/> 
